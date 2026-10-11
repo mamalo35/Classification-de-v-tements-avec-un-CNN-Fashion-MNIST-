@@ -129,10 +129,8 @@ Avec un seuil de 80 %, en confiant 13 % des images à un humain, on écarte envi
 - Le gain du modèle 2 a un coût : environ 4 fois plus de paramètres, et chaque époque prend environ 3 fois plus de temps.
 
 **Pistes**
-- `ReduceLROnPlateau`, pour affiner l'apprentissage quand le modèle stagne.
 - Un troisième bloc convolutif ou plus de filtres, pour mieux distinguer les hauts.
 - Un réentraînement final sur les 60 000 images d'entraînement.
-- La combinaison de plusieurs modèles (ensemble).
 
 ## Structure du dépôt
 
