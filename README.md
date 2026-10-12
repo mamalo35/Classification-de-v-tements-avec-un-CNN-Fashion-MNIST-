@@ -1,7 +1,7 @@
 # Classification de vêtements avec un CNN (Fashion-MNIST)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mamalo35/Classification_de_vetements_avec_un_CNN_Fashion_MNIST/blob/main/notebooks/fashion_mnist_cnn.ipynb)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Voir%20le%20notebook-20BEFF?logo=kaggle)](https://www.kaggle.com/code/malovaillant/fashion_mnist_cnn)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Voir%20le%20notebook-20BEFF?logo=kaggle)](https://www.kaggle.com/code/malovaillant/fashion-mnist-cnn)
 
 Réseau de neurones convolutif (CNN) qui reconnaît le type de vêtement sur une image, parmi 10 catégories.
 Le modèle final atteint **92,5 % ± 0,3 de précision** sur le jeu de test (moyenne sur 5 entraînements), contre 90,6 % ± 0,2 pour un CNN de base.
